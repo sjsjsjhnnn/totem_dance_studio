@@ -538,6 +538,11 @@ p a:hover{
         width: 350px;
     }
 }
+@media screen and (max-width: 420px){
+    .image{
+        width: 250px;
+    }
+}
 /*Блок 5*/
 .footer{
     width: 100%;
